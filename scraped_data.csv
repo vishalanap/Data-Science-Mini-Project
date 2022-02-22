@@ -1,0 +1,420 @@
+Address,Price,Beds,Baths,Sizes
+"4121 Avenue V, Brooklyn, NY 11234","$499,000",2,1.5,830sqft
+"2212 Fenton Ave, Bronx, NY 10469","$739,000",3,1.5,"2,018sqft"
+"695 Meeker Ave, Brooklyn, NY 11222","$1,699,000",12,6,No display data
+"28 Diaz Pl, Staten Island, NY 10306","$589,900",3,2.5,"1,620sqft"
+"105 Goodall St, Staten Island, NY 10308","$509,000",2,1.5,"1,280sqft"
+"1495 E 28th St Apt 3A, Brooklyn, NY 11229","$649,000",2,2,850sqft
+"338 Graham Ave, Staten Island, NY 10314","$750,000",3,2.5,"1,584sqft"
+"12 Belair Rd, Staten Island, NY 10305","$988,000",3,1.5,"2,306sqft"
+"95-11 130th St, Richmond Hill South, NY 11419","$825,000",3,3,No display data
+"900 Park Ave Apt 22A, Manhattan, NY 10075","$4,575,000",3,3.5,"1,568sqft"
+"27010 Grand Central Pkwy Apt 24E, Floral Park, NY 11005","$719,000",2,2.5,"1,622sqft"
+"35-06 E Leavitt St Unit 6, Flushing, NY 11354","$688,000",2,2,932sqft
+"249-05 64th Ave Unit Upper, Little Neck, NY 11362","$369,000",3,1,960sqft
+"4608 Avenue L, Brooklyn, NY 11234","$759,000",4,3,No display data
+"34 Alcott St Unit A, Staten Island, NY 10312","$479,900",2,2.5,"1,152sqft"
+"69 Dehart Ave, Staten Island, NY 10303","$853,000",3,2,"2,408sqft"
+"29-11 215 Pl, Bayside, NY 11360","$1,320,000",3,2.5,No display data
+"35-67 160 St, Flushing, NY 11358","$1,549,888",4,2.5+,No display data
+"90 Hudson St Apt 4A, New York City, NY 10013","$2,550,000",2,2,No display data
+"10 E 42nd St, Brooklyn, NY 11203","$950,000",5,2,No display data
+"221 W 82nd St Apt 7F, Manhattan, NY 10024","$2,995,000",3,2,"1,850sqft"
+"200 Riverside Blvd Apt 14A, New York, NY 10069","$2,950,000",3,2.5,"1,600sqft"
+"1280 Fifth Ave Unit 7B, New York, NY 10029","$2,195,000",2,2,"1,480sqft"
+"833 Bay Ridge Ave, Brooklyn, NY 11220","$1,800,000",11,6,No display data
+"400 E 51st St Apt 29B, New York City, NY 10022","$4,700,000",3,3.5,"2,347sqft"
+"159-34 Riverside Dr W Unit 6A, Manhattan, NY 10032","$1,275,000",3,2,"1,470sqft"
+"2711 E 23rd St, Brooklyn, NY 11235","$1,250,000",3,2,"1,320sqft"
+"10 E End Ave Apt 19D, Manhattan, NY 10075","$2,800,000",3,2.5,No display data
+"135 Fort Greene Pl Unit Twnhse, Brooklyn, NY 11217","$3,649,000",5,2,"3,500sqft"
+"6120 Grand Central Pkwy Apt B508, Forest Hills, NY 11375","$470,000",2,1,"1,250sqft"
+"300 W 122nd St Apt 7B, New York City, NY 10027","$1,380,000",2,2,"1,038sqft"
+"300 W 122nd St Apt 3B, New York City, NY 10027","$1,300,000",2,2,"1,038sqft"
+"407 Torry Ave, Bronx, NY 10473","$599,000",3,2,"1,980sqft"
+"3232 Richmond Rd, Staten Island, NY 10306","$799,000",4,2.5+,"1,750sqft"
+"800 Grand Concourse Apt 3CN, Bronx, NY 10451","$499,900",3,2,No display data
+"217-12 73 Ave Unit 385A2, Oakland Gardens, NY 11364","$323,999",2,1,No display data
+"292 Eldert Ln, Champlain, NY 11208","$597,000",3,1.5,No display data
+"474 W 238th St Apt 6B, Bronx, NY 10463","$315,000",2,1,"1,000sqft"
+"4725 Kings Hwy, New York City, NY 11234","$799,000",3,2,"1,500sqft"
+"911 Vincent Ave, Bronx, NY 10465","$725,000",3,2.5,"1,732sqft"
+"4121 Avenue V Apt 1C, Brooklyn, NY 11234","$499,000",2,1.5,830sqft
+"2254 80th St, Brooklyn, NY 11214","$1,399,998",5,2.5+,"2,323sqft"
+"34-21 78th St Unit 5F, Jackson Heights, NY 11372","$625,000",2,2,No display data
+"27 Arthur Ave, Staten Island, NY 10305","$899,000",3,2,"1,880sqft"
+"2438 E 22nd St, Brooklyn, NY 11235","$1,450,000",7,4,"3,706sqft"
+"87-53 96 St, Woodhaven, NY 11421","$1,425,000",4,2,"2,170sqft"
+"10-13 115 St, College Point, NY 11356","$725,000",2,2,960sqft
+"206 Finley Ave, Staten Island, NY 10306","$949,000",5,3,"2,063sqft"
+"1376 Jefferson Ave, New York City, NY 11237","$1,700,000",7,3,No display data
+"8523 Broadway Apt 7C, Elmhurst, NY 11373","$739,000",2,2,No display data
+"130 E 75th St Unit 7D, New York City, NY 10021","$3,495,000",3,3,No display data
+"107-48 92 St, Ozone Park, NY 11417","$849,000",2,2,No display data
+"1471 Shore Dr, Bronx, NY 10465","$849,000",4,2.5,"1,836sqft"
+"1532 Ryder St, Brooklyn, NY 11234","$1,099,000",6,3,"2,240sqft"
+"983 Park Ave Unit 8D, New York City, NY 10028","$3,600,000",3,3.5,No display data
+"41 Elmwood Ave, Staten Island, NY 10308","$750,000",3,2,"1,000sqft"
+"401 E 65th St Unit 11HI, New York City, NY 10065","$995,000",2,2,No display data
+No display data,"$1,695,000",6,3.5+,"2,772sqft"
+"225 W 83rd St Apt 4M, New York City, NY 10024","$1,849,000",2,2,"1,114sqft"
+"85 Adams St Apt 3D, Brooklyn, NY 11201","$1,395,000",2,2,"1,169sqft"
+"128 Bay 43rd St Unit 1B, Brooklyn, NY 11214","$650,000",2,1.5,910sqft
+"327 E 22nd St Unit 3A, Manhattan, NY 10010","$2,598,540",2,2,"1,326sqft"
+"2 E 55th St Unit 815W17, Manhattan, NY 10022","$295,000",2,3,"1,290sqft"
+"23-25 Bell Blvd Unit 4G, Bayside, NY 11360","$399,888",3,2,No display data
+"2 E 55th St Unit 921W39, Manhattan, NY 10022","$285,000",2,2,957sqft
+"2 E 55th St Unit 803W51, Manhattan, NY 10022","$335,000",2,2,"1,382sqft"
+"58-53 246 Cres Unit Lower, Douglaston, NY 11362","$329,000",2,1,950sqft
+"313 Broad St, Staten Island, NY 10304","$650,000",4,2,"2,350sqft"
+"75-32 Parsons Blvd Unit B1, Fresh Meadows, NY 11366","$619,888",2,3,"1,343sqft"
+"21-41 34th Ave Unit 4C, Astoria, NY 11106","$459,000",2,1,825sqft
+"76-24 249th St Unit 2ND, Bellerose, NY 11426","$399,900",2,1,797sqft
+"13-14 Jackson Ave Unit 3W, New York City, NY 11101","$1,300,000",2,2,No display data
+"125-10 Queens Blvd Unit 2607, Kew Gardens, NY 11415","$650,000",3,3,No display data
+"158 Colony Ave, Staten Island, NY 10306","$578,888",2,2.5,"1,110sqft"
+"393 Avenue S Apt 4A, Brooklyn, NY 11223","$379,000",2,1,925sqft
+"515 Ocean Ter, Staten Island, NY 10301","$799,900",3,2,"1,062sqft"
+"1828 Drumgoole Rd, Staten Island, NY 10309","$599,000",3,1,884sqft
+"71-57 Manse St, Forest Hills, NY 11375","$1,249,000",3,2.5,No display data
+"100 St Nicholas Ave Unit 7E, New York City, NY 10026","$670,000",4,1,No display data
+"5247 Independence Ave, Bronx, NY 10471","$4,500,000",9,8.5+,"10,000sqft"
+"459 Henry St, New York City, NY 11231","$6,995,000",5,4.5,"3,520sqft"
+"550 Vanderbilt Ave Apt 1619, New York City, NY 11238","$2,799,000",2,2.5,"1,572sqft"
+"150 E 77th St Apt 12C, New York City, NY 10075","$2,795,000",3,2,No display data
+"33-46 157th St, Flushing, NY 11354","$1,298,000",5,2.5,No display data
+"122-12 153rd St, Jamaica, NY 11434","$879,000",6,5,No display data
+"33 W 71st St, New York City, NY 10023","$11,995,000",6,6.5+,"8,500sqft"
+"425 E 58th St Apt 29E, Manhattan, NY 10022","$3,750,000",4,4.5,"2,900sqft"
+"178-14 145th Dr, Jamaica, NY 11434","$699,000",3,1,"1,090sqft"
+"1035 E 14th St, Brooklyn, NY 11230","$1,800,000",9,5.5+,"4,407sqft"
+"20 Pine St Apt 911, New York City, NY 10005","$1,345,000",2,1,"1,223sqft"
+"305 E 51st St Apt 11B, New York City, NY 10022","$2,795,000",2,2,"1,518sqft"
+"201 E 25th St Unit 11DE, New York City, NY 10010","$2,250,000",3,2,No display data
+"515 E 89th St Apt 5K, New York City, NY 10128","$1,250,000",2,2,"1,350sqft"
+"241-20 Mayda Rd SE, Rosedale, NY 11422","$615,500",3,1.5+,"1,590sqft"
+"240 Cozine Ave Unit 104H, Brooklyn, NY 11207","$560,000",2,1,No display data
+"226-33 Union Tpke Unit 371, Bayside, NY 11364","$359,000",2,1,No display data
+"4154 Barnes Ave, Bronx, NY 10466","$810,000",6,2,"2,288sqft"
+"69-09 108th St Unit 5O3, Forest Hills, NY 11375","$500,000",2,1,No display data
+"2704 Parsons Blvd Apt 6E, Flushing, NY 11354","$369,000",2,1,No display data
+"87-74 94th St, Woodhaven, NY 11421","$729,000",3,2.5,No display data
+"2921 Philip Ave, Bronx, NY 10465","$750,000",3,2,"1,234sqft"
+"821 Rensselaer Ave, Staten Island, NY 10309","$699,000",3,2.5+,"1,680sqft"
+"1250 E 80th St Unit 7, Brooklyn, NY 11236","$450,000",3,2,"1,065sqft"
+"3846 Amboy Rd, Staten Island, NY 10308","$864,999",3,3,"2,806sqft"
+"548 Chester St, Brooklyn, NY 11212","$679,000",4,3,"1,808sqft"
+"69-16 Juniper Valley Rd, Middle Village, NY 11379","$769,000",3,2,No display data
+"659 Morris Park Ave, Bronx, NY 10462","$858,000",3,1,"2,016sqft"
+"34-54 9th St, Astoria, NY 11106","$1,199,900",6,3,No display data
+"50-14 102 St, Corona, NY 11368","$885,000",4,3.5,No display data
+"91-42 Hollis Court Blvd, Jamaica, NY 11428","$1,800,000",5,3.5+,No display data
+"150 Nassau St Apt 2A, New York City, NY 10038","$2,990,000",2,2.5,"1,725sqft"
+"2744 Kingsbridge Ter, Bronx, NY 10463","$1,999,999",11,5,"4,091sqft"
+"1059 Vincent Ave, Bronx, NY 10465","$699,000",4,2,"1,520sqft"
+"2009 Gerritsen Ave, Brooklyn, NY 11229","$999,000",3,2.5,No display data
+"202-36 46th Rd, Bayside, NY 11361","$999,999",3,2,"1,650sqft"
+"10-40 116 St, College Point, NY 11356","$1,580,000",9,3,"3,540sqft"
+"181-25 Tudor Rd, Jamaica, NY 11432","$1,788,000",4,3,"2,204sqft"
+"51 Jay St Apt 1M, New York City, NY 11201","$2,175,000",2,2.5,"1,451sqft"
+"23338 Bay Ave, Little Neck, NY 11363","$1,549,000",4,3.5,No display data
+"137-28 94th St, Ozone Park, NY 11417","$825,000",4,2,No display data
+"90-17 179th, Jamaica, NY 11432","$949,000",4,4,No display data
+"393 Avenue S Apt 4A, Brooklyn, NY 11223","$379,000",2,1,925sqft
+"36 Shore Rd Ln, Brooklyn, NY 11209","$2,400,000",3,3.5,"2,408sqft"
+"188-25 Palo Alto Ave, Hollis, NY 11432","$2,500,000",8,6,"3,700sqft"
+"143-26 41st Ave Unit 5B, Flushing, NY 11355","$730,000",2,2,770sqft
+"420 Riverside Dr Apt 12E, Manhattan, NY 10025","$1,150,000",2,1,"1,000sqft"
+"6 Park End Pl, New York, NY 11375","$1,825,500",4,2.5,"2,200sqft"
+"111-57 166th St, Jamaica, NY 11433","$399,000",2,1,No display data
+"42 Targee St, Staten Island, NY 10304","$365,000",3,2,720sqft
+"5500 Fieldston Rd Apt 8AA, Bronx, NY 10471","$395,000",3,2,"1,100sqft"
+"113-14 72 Rd Unit Bb, Forest Hills, NY 11375","$490,000",2,2,"1,300sqft"
+"Withheld Ln, Staten Island, NY 10314","$829,900",6,3,"2,800sqft"
+"132-31 158th St, Jamaica, NY 11434","$655,000",3,3,"1,230sqft"
+"48 Ilyssa Way, Staten Island, NY 10312","$469,000",3,2.5+,"1,679sqft"
+"56-21 Douglaston Pkwy Unit Upper, Douglaston, NY 11362","$359,000",3,1,No display data
+"177-41 115 Ave, Jamaica, NY 11434","$659,000",3,1.5,No display data
+"1479 Commonwealth Ave, Bronx, NY 10460","$719,000",5,2,"3,192sqft"
+"77 Richard Ln, Staten Island, NY 10314","$829,900",6,3,"2,800sqft"
+"164-39 86th St, Howard Beach, NY 11414","$859,000",3,2,No display data
+"56 E 126th St Apt 2, New York City, NY 10035","$799,000",2,1,877sqft
+"350 Livermore Ave, Staten Island, NY 10314","$799,000",3,2,"1,407sqft"
+"119 Johnson Ave, Staten Island, NY 10307","$1,250,000",5,5,"3,096sqft"
+"280 Grafton St, Brooklyn, NY 11212","$899,000",8,3,"3,250sqft"
+"1078 E 27th St, Brooklyn, NY 11210","$1,800,000",4,2.5+,"2,800sqft"
+"165 E 72nd St Apt 8G, New York, NY 10021","$1,250,000",2,2,No display data
+"100-09 89th Ave, Richmond Hill, NY 11418","$835,000",5,2.5,No display data
+"59-24 72nd St, Maspeth, NY 11378","$1,319,000",5,3,"2,898sqft"
+"277 S 2nd St, Brooklyn, NY 11211","$3,999,999",6,4.5,No display data
+"274 Prospect Park W Apt 3L, New York City, NY 11215","$875,000",2,1,No display data
+"48-31 91st Pl, Elmhurst, NY 11373","$1,950,000",8,7,No display data
+"112-01 Queens Blvd Unit 5B, Forest Hills, NY 11375","$1,050,000",2,2,"1,135sqft"
+"2056 5th Ave Apt 2A, New York City, NY 10035","$1,250,000",2,2.5,"1,500sqft"
+"732 Halsey St, Brooklyn, NY 11233","$1,650,000",5,3,No display data
+"263 W 139th St, New York, NY 10030","$3,200,000",4,3.5+,"4,500sqft"
+"220 Madison Ave Units 14 & 15H, New York City, NY 10016","$2,300,000",2,2,No display data
+"147-43 Ash Ave, Flushing, NY 11355","$2,860,000",7,7.5+,No display data
+"2302 Jerome Ave, Brooklyn, NY 11235","$1,299,000",4,2,"2,106sqft"
+"3209 Layton Ave, Bronx, NY 10465","$675,000",4,2,"2,100sqft"
+"117-36 141st St, Jamaica, NY 11436","$659,000",3,2.5,No display data
+"1317 Hollywood Ave, Bronx, NY 10461","$830,000",4,1.5,"2,556sqft"
+"226 Union Tpke Unit 3P, New York City, NY 11364","$325,000",2,1,No display data
+"37 Spruce Ln, Staten Island, NY 10309","$825,000",4,3.5,"2,800sqft"
+"130 Lenox Ave Unit 806, New York City, NY 10026","$535,000",2,1,No display data
+"1969 Gerritsen Ave, Marine Park, NY 11234","$799,000",2,1.5,"1,120sqft"
+"102 Bradhurst Ave Apt 909, New York City, NY 10039","$849,000",2,2,"1,005sqft"
+"69-43 Thursby Ave, Arverne, NY 11692","$829,000",5,2.5,"2,068sqft"
+"32 Moreno Ct, Staten Island, NY 10309","$888,000",4,3.5,"2,400sqft"
+"217 W 57th St Apt 91E, New York City, NY 10019","$34,000,000",4,4,"4,296sqft"
+"280 Grafton St, Brownville, NY 11212","$899,000",8,3,"3,250sqft"
+"117 Bradford St, Brooklyn, NY 11207","$899,000",5,3,"2,200sqft"
+"53 Lander Ave, Staten Island, NY 10314","$975,000",3,2.5+,"2,058sqft"
+"65-50 Wetherole St Unit 1M, Rego Park, NY 11374","$699,000",2,1,No display data
+"90-59 56th Ave Unit 8C, Elmhurst, NY 11373","$408,000",2,1,850sqft
+"72-06 243rd St, Little Neck, NY 11362","$1,388,888",6,3.5+,No display data
+"1549 Marine Pkwy, Brooklyn, NY 11234","$825,000",3,2.5,"1,504sqft"
+No display data,"$1,900,000",5,3.5,No display data
+"505 W 43rd St Apt 5F, New York, NY 10036","$1,845,000",2,2,"1,041sqft"
+"505 W 43rd St Apt 8J, New York, NY 10036","$2,295,000",3,2.5,"1,302sqft"
+"505 W 43rd St Apt 12A, New York, NY 10036","$2,115,000",2,2,"1,165sqft"
+"18 Troutman St, New York City, NY 11385","$3,000,000",4,3,No display data
+"1413 E 14th St, Brooklyn, NY 11230","$1,375,000",5,4.5,No display data
+"33-40 81st St Unit 41, Queens, NY 11372","$950,000",3,2,"1,300sqft"
+"108 E 91st St Apt 6B, New York, NY 10128","$1,150,000",2,1,No display data
+"212 W 93rd St Apt 3A, New York City, NY 10025","$3,100,000",3,2.5,"1,542sqft"
+"212 W 93rd St Apt 4B, New York City, NY 10025","$2,850,000",3,2.5,"1,527sqft"
+"567 Ocean Ave Apt A804, Brooklyn, NY 11226","$1,007,000",2,2,930sqft
+"37-35 Douglas Rd, Douglaston, NY 11363","$849,000",4,2.5,"3,036sqft"
+"114-33 139 St, Jamaica, NY 11436","$679,000",3,2.5,"1,500sqft"
+"2251 Story Ave, Bronx, NY 10473","$570,000",4,2,"2,072sqft"
+"210 Fleet Ct Unit 16210, Bronx, NY 10473","$389,000",2,1.5,"1,105sqft"
+"180 Dongan St, Staten Island, NY 10310","$549,999",3,1,"1,266sqft"
+"162-41 Powells Cove Blvd Unit 6D, Beechhurst, NY 11357","$698,888",3,2,"1,800sqft"
+"9602 159th Ave, Howard Beach, NY 11414","$828,888",3,2,"1,293sqft"
+"528 Eltingville Blvd, Staten Island, NY 10312","$975,000",3,2.5,"2,600sqft"
+"16-29 212 St Unit 105, Bayside, NY 11360","$365,000",2,1,No display data
+"120-30 147th St, Jamaica, NY 11436","$669,000",4,3.5,"1,326sqft"
+"280 Grafton St, Brownville, NY 11212","$899,000",8,3,"3,250sqft"
+"223 Westervelt Ave, Staten Island, NY 10301","$845,000",4,3,"2,080sqft"
+"1775 Madison Ave Unit 5AD, New York City, NY 10035","$400,000",2,1,600sqft
+"3615 Avenue T, Brooklyn, NY 11234","$865,000",3,2,"2,139sqft"
+"26 Ely St, Staten Island, NY 10301","$638,000",6,2,"1,554sqft"
+"52-26 Douglaston Pkwy, Douglaston, NY 11362","$1,399,000",2,2.5,"2,112sqft"
+"156-25 76th St, Howard Beach, NY 11414","$1,299,000",6,4,No display data
+"70 108th St Unit 12E, New York City, NY 11375","$615,000",2,1,940sqft
+"85-05 Eliot Ave, Rego Park, NY 11374","$950,000",3,2,No display data
+"59-40 164th St, Flushing, NY 11365","$788,000",3,2,"1,428sqft"
+"24 Poi Ct, Staten Island, NY 10314","$1,100,000",4,3.5,"2,516sqft"
+"149-45 257th St, Jamaica, NY 11422","$1,200,000",6,5,No display data
+"41 Chapin Ave, Staten Island, NY 10304","$989,900",3,1.5,"2,250sqft"
+"1563 W 5th St Unit 3A, Brooklyn, NY 11204","$699,000",3,2,"1,000sqft"
+"11 49th Ave Unit 2C, New York City, NY 11101","$1,295,000",2,2,"1,060sqft"
+"163-04 20th Ave, Whitestone, NY 11357","$1,088,000",4,3,"1,342sqft"
+"358 52nd St, Brooklyn, NY 11220","$1,248,000",5,3,"2,232sqft"
+"40 E 80th St Apt 21A, New York, NY 10075","$1,695,000",3,3,"2,000sqft"
+"1765 W 6th St, Brooklyn, NY 11223","$1,250,000",3,2.5,"1,368sqft"
+"251 Warren St, New York City, NY 11201","$3,250,000",5,3,"2,660sqft"
+"2100 Bedford Ave Apt 4A, New York City, NY 11226","$969,999",2,2,"1,031sqft"
+"313 W 55th St, New York City, NY 10019","$4,200,000",4,8,"4,732sqft"
+"111 Ainslie St, New York City, NY 11211","$2,799,000",8,5,No display data
+"35 Andros Ave, New York City, NY 10303","$550,000",4,2,"1,582sqft"
+"2138 Bruckner Blvd, Bronx, NY 10473","$574,888",4,2,"1,600sqft"
+"3021 Avenue Z Apt 4C, Brooklyn, NY 11235","$249,000",2,1,"1,100sqft"
+"87-30 204 St Unit B74, Hollis, NY 11423","$253,555",2,1,No display data
+"1425 Thieriot Ave Apt 6K, Bronx, NY 10460","$185,000",2,1,900sqft
+"247-01B 77 Cres Unit Upper, Glen Oaks, NY 11004","$410,000",2,1,No display data
+"109-41 125th St, South Ozone Park, NY 11420","$610,000",3,2,No display data
+"220-16 73rd St Unit Upper, Oakland Gardens, NY 11364","$319,000",2,1,No display data
+"86-34 139th St, Briarwood, NY 11435","$1,249,000",5,4,No display data
+"41-24 58th St, Woodside, NY 11377","$1,090,000",6,2.5,"2,000sqft"
+"129-30 134th St, South Ozone Park, NY 11420","$675,000",3,2,No display data
+"105-13 77th St, Ozone Park, NY 11417","$799,000",3,3,"1,320sqft"
+"455 Milford St, Brooklyn, NY 11208","$765,000",5,3,No display data
+"1169 Fox St, Bronx, NY 10459","$949,999",6,3,"2,760sqft"
+"159 Cuthbert Rd, Kew Gardens, NY 11415","$1,200,000",3,2.5+,No display data
+"34-10 94th St Unit 4G, New York City, NY 11369","$450,000",2,1,No display data
+"70 Titus Ave, Staten Island, NY 10306","$828,000",4,3,"1,563sqft"
+"133-22 233rd St, Jamaica, NY 11422","$1,800,000",6,4,No display data
+"110-20 71 Rd Unit 801, Forest Hills, NY 11375","$490,000",2,1,"1,088sqft"
+"3715 Nautilus Ave, Brooklyn, NY 11224","$799,999",4,2,"2,083sqft"
+"235 55th St Unit 3A, Brooklyn, NY 11220","$548,000",2,1,685sqft
+"118 Wolverine St, Staten Island, NY 10306","$619,000",3,1.5,"1,056sqft"
+"8211 16th Ave, Brooklyn, NY 11214","$1,250,000",3,2,"1,920sqft"
+"31-37 69th St, Woodside, NY 11377","$875,000",3,2.5,"1,440sqft"
+"415 E 37th St Unit 23JK, New York, NY 10016","$1,995,000",4,3,No display data
+"7201 4th Ave Apt C3, New York City, NY 11209","$649,000",3,2,No display data
+"141 W 24th St Unit 5FL, New York, NY 10011","$3,750,000",4,3,"2,500sqft"
+"414 Washington St Unit 4, New York City, NY 10013","$5,850,000",3,3,"3,000sqft"
+"76 Madison St Unit 3A, Manhattan, NY 10002","$2,300,000",2,2,"1,769sqft"
+"979 Post Ave, Staten Island, NY 10302","$425,000",4,2,"2,078sqft"
+"526 Bolton Ave, Bronx, NY 10473","$525,000",3,2.5,"1,290sqft"
+"170-08 118th Rd, Jamaica, NY 11434","$669,900",2,1.5,"1,300sqft"
+"1068 E 37th St, Brooklyn, NY 11210","$729,000",3,2.5,No display data
+"200 Saratoga Ave, Brooklyn, NY 11233","$849,000",3,1.5,No display data
+"16-39 Cornelia St, Ridgewood, NY 11385","$1,288,000",6,3,"3,143sqft"
+"74-45 Yellowstone Blvd Unit 5C, Forest Hills, NY 11375","$349,000",2,1.5,"1,150sqft"
+"255 E 49th St Apt 9D, New York City, NY 10017","$1,575,000",2,2,"1,350sqft"
+"10 E 70th St Apt 6C, New York, NY 10021","$2,400,000",2,3.5,No display data
+"35-13 109th St, Corona, NY 11368","$1,699,000",7,5,No display data
+"316 E 22nd St Apt 4, New York, NY 10010","$4,500,000",4,2.5,"2,415sqft"
+"300 Albany St Apt 8I, New York City, NY 10280","$1,150,000",2,2,"1,118sqft"
+"250 W 90th St Apt 5A, New York, NY 10024","$1,695,000",2,2.5,No display data
+"400 E 51st St Unit 6AB, New York, NY 10022","$3,495,000",4,4,"2,538sqft"
+"174 E 74th St Apt 17E, New York, NY 10021","$1,899,000",2,2,No display data
+"546 Clinton St Unit 1, New York City, NY 11231","$3,100,000",2,3.5,"2,700sqft"
+"313 W 55th St, New York, NY 10019","$4,200,000",4,8,"4,732sqft"
+"25 Broad St Ph 1K, New York, NY 10004","$1,735,000",2,2,"1,333sqft"
+"360 E 72nd St Apt A1202, New York, NY 10021","$1,650,000",2,2,No display data
+"505 W End Ave Apt 10AB, New York, NY 10024","$5,995,000",5,4,No display data
+"239 Central Park W Unit 3E, New York, NY 10024","$2,490,000",2,2.5,No display data
+"225 Fifth Ave Unit 9S, New York, NY 10010","$3,200,000",2,2,"1,348sqft"
+"11 Hoyt St Apt 27L, New York, NY 11201","$1,505,000",2,2,967sqft
+"11 Hoyt St Apt 31H, New York, NY 11201","$1,540,000",2,2,987sqft
+"11 Hoyt St Apt 28A, New York, NY 11201","$1,830,000",2,2,"1,221sqft"
+"11 Hoyt St Apt 19G, New York, NY 11201","$1,440,000",2,2,"1,011sqft"
+"111 Hicks St Apt 8N, New York, NY 11201","$1,250,000",2,2,"1,200sqft"
+"33 High St, Staten Island, NY 10305","$698,000",2,2.5,"1,410sqft"
+"10 Myrna Ln, Staten Island, NY 10312","$799,999",4,3.5,"2,392sqft"
+"102-55 67th Dr Unit 6K, Forest Hills, NY 11375","$499,000",2,2,No display data
+"1563 E 49th St, Brooklyn, NY 11234","$699,000",3,2.5,No display data
+"162-41 Powells Cove Blvd Unit 6S, Beechhurst, NY 11357","$399,888",2,1,No display data
+"640 W 237th St Apt 17A, New York City, NY 10463","$1,340,000,000",2,2.5,"1,998sqft"
+"162-01 Powells Cove Blvd Unit 2G, Beechhurst, NY 11357","$629,888",3,2,No display data
+"162-01 Powells Cove Blvd Unit 4D, Beechhurst, NY 11357","$649,888",3,2,No display data
+"9411 Shore Rd Apt 1K, Brooklyn, NY 11209","$439,999",2,1,No display data
+"150-64 116th Ave, Jamaica, NY 11434","$729,000",4,3,No display data
+"92-24 93rd Ave, Jamaica, NY 11421","$699,000",3,3,No display data
+"3720 Bronxwood Ave, Bronx, NY 10469","$900,000",5,1,"2,700sqft"
+"31-12 Union St Unit 4B, Flushing, NY 11354","$638,000",2,2,No display data
+"10 W 66th St Apt 28C, New York, NY 10023","$3,495,000",4,3.5,No display data
+"160-15 45th Ave, Flushing, NY 11358","$1,400,000",7,5,No display data
+"1 Wall St Unit 4101, New York City, NY 10005","$10,500,000",3,3,"2,753sqft"
+"93-13 68 Ave, Forest Hills, NY 11375","$1,568,000",3,2.5,"2,400sqft"
+"147-20 75 Ave, Kew Gardens Hills, NY 11367","$2,099,000",7,3.5,"4,300sqft"
+"61-20 Grand Central Pkwy Unit B1502, Forest Hills, NY 11375","$449,000",2,1,"1,175sqft"
+"515 W 18th St Unit 906, New York, NY 10011","$7,250,000",3,2.5,"2,091sqft"
+"176 Broadway Apt 15A, New York City, NY 10038","$2,000,000",2,2,"1,600sqft"
+"721 Fifth Ave Unit 39B, New York, NY 10022","$3,195,000",2,2,"1,587sqft"
+"130 E 12th St Apt 6A, New York City, NY 10003","$1,995,000",2,2,"1,545sqft"
+"53 Boerum Pl Apt 11A, Brooklyn, NY 11201","$1,150,000",2,2,975sqft
+"84-31 103rd Ave, Ozone Park, NY 11417","$599,000",4,2,No display data
+"875 E 223rd St, Bronx, NY 10466","$580,000",3,1,"1,690sqft"
+"211-65 23rd Ave Unit 5B, Bayside, NY 11360","$338,000",2,1,No display data
+"104-11 91st Ave, Richmond Hill, NY 11418","$768,000",4,2,"1,380sqft"
+"193-15 109th Ave, Saint Albans, NY 11412","$724,999",4,2.5,No display data
+"145-85 224th St, Springfield Gardens, NY 11413","$570,000",3,1.5,No display data
+"33 High St, Staten Island, NY 10305","$698,000",2,2.5,"1,410sqft"
+"81-23 259th St, Floral Park, NY 11004","$749,999",4,1,No display data
+"534 W Caswell Ave, Staten Island, NY 10314","$858,000",5,3,"1,882sqft"
+"3210 Arlington Ave Apt 3J, Bronx, NY 10463","$355,000",2,1,950sqft
+"186 E 111th St Apt 3, New York City, NY 10029","$825,000",3,2,"1,150sqft"
+"356A Vernon Ave, Bed Stuy, NY 11206","$1,400,000",8,3,No display data
+"30 Jewell McKoy Ln, Brooklyn, NY 11213","$950,000",4,1.5,"1,452sqft"
+"310 E 70th St Apt 12P, New York, NY 10021","$1,999,500",3,2,No display data
+"238-32 148th Dr, Rosedale, NY 11422","$889,990",6,2,No display data
+"25 Ebony Ct, Brooklyn, NY 11229","$749,000",3,2,"1,165sqft"
+No display data,"$11,995,000",6,7.5+,"8,500sqft"
+"345 E 50th St Apt 1B, New York, NY 10022","$2,495,000",3,3,"2,877sqft"
+"56 Leonard St Apt 31AE, New York, NY 10013","$7,500,000",3,3.5,"2,175sqft"
+"1060 Putnam Ave Apt 1R, Brooklyn, NY 11221","$975,000",2,2,"1,200sqft"
+"257 49th St, Brooklyn, NY 11220","$1,399,000",2,1,"1,960sqft"
+"138 E 36th St Apt 8C, New York, NY 10016","$1,465,000",2,2,"1,600sqft"
+"2286 E 4th St, Brooklyn, NY 11223","$1,290,000",3,1.5,"1,584sqft"
+"1474 Third Ave Unit 2S, New York, NY 10028","$2,495,000",3,2.5,No display data
+"1390 E 95th St, New York, NY 11236","$1,600,000",4,4,No display data
+"15 E 30th St Apt 37E, New York, NY 10016","$4,000,000",2,2,"1,402sqft"
+"128 W 23rd St Unit 10B, New York, NY 10011","$2,875,000",2,2.5,"1,427sqft"
+"4094A DE Reimer Ave, Bronx, NY 10466","$600,000",3,2,"2,340sqft"
+"4232 Gunther Ave, Bronx, NY 10466","$555,000",3,1.5,"1,208sqft"
+"177A Lamped Loop Unit 46, Staten Island, NY 10314","$400,000",4,2,"1,318sqft"
+"342 E 119th St Apt 4E, New York City, NY 10035","$610,000",2,2,No display data
+"2781 Marion Ave, Bronx, NY 10458","$675,000",5,0.5+,"2,226sqft"
+"139-09 28th Rd Unit 2CC, Flushing, NY 11354","$330,000",2,1,No display data
+"204-15 Foothill Ave Unit A36, Hollis, NY 11423","$235,000",2,1,No display data
+"30A McDivitt Ave Unit 12, Staten Island, NY 10314","$489,000",2,1.5,"1,158sqft"
+"168 Manhattan St, Staten Island, NY 10307","$869,900",2,2.5,"2,100sqft"
+"2932 W 5th St Apt 7G, Brooklyn, NY 11224","$429,000",2,1,"1,000sqft"
+"419 Kissel Ave, Staten Island, NY 10301","$811,000",3,2,"1,450sqft"
+"860 Fifth Ave Unit 5L, New York, NY 10065","$1,265,000",2,2,No display data
+"74-09 255th St Unit 1ST, Glen Oaks, NY 11004","$364,900",2,1,721sqft
+"937 E 220th St, Bronx, NY 10469","$995,000",6,4,No display data
+"202-23 47 Ave, Bayside, NY 11361","$850,000",3,1.5,"1,216sqft"
+"240-25 144th Ave, Rosedale, NY 11422","$699,000",3,2,"1,624sqft"
+"370 W 262nd St, Bronx, NY 10471","$939,000",3,2,No display data
+"3033 Scenic Pl, Bronx, NY 10463","$3,300,000",5,4.5+,No display data
+"870 United Nations Plz Apt 8A, New York, NY 10017","$1,850,000",2,2,No display data
+"27-03 Corporal Kennedy St, Bayside, NY 11360","$1,198,000",3,3,No display data
+"41-33 Parsons Blvd Unit 2B, Flushing, NY 11355","$650,000",2,2,No display data
+"515 W 18th St Unit 1006, New York, NY 10011","$8,495,000",3,3,"1,990sqft"
+"24 Central Park S Unit 11E, New York, NY 10019","$4,850,000",3,3.5,"2,260sqft"
+"30-80 21st St Unit 6A, New York City, NY 11102","$949,000",2,2,960sqft
+"229 55th St Unit 4A, Brooklyn, NY 11220","$588,000",2,2,827sqft
+"48-21 5th St Ph 5G, New York, NY 11101","$2,550,000",3,2,"1,686sqft"
+"500 W 43rd St Apt 36D, New York City, NY 10036","$1,499,000",2,2,"1,035sqft"
+"1 Central Park S Unit 706, New York, NY 10019","$4,750,000",2,2,"1,721sqft"
+"100 Barclay St Apt 25B, New York, NY 10007","$6,525,000",3,4,"2,870sqft"
+"39 E 72nd St, New York, NY 10021","$36,000,000",11,11.5+,No display data
+"50 Gramercy Park N Unit 15AB, New York, NY 10010","$4,995,000",3,2.5,"3,809sqft"
+"747 Patterson Ave, Staten Island, NY 10306","$249,000",3,2.5,680sqft
+"102-04 164th Ave, Howard Beach, NY 11414","$459,000",3,2,No display data
+"535 White Plains Rd, Bronx, NY 10473","$639,000",3,2,"1,200sqft"
+"83-83 118th St Unit 1D, Kew Gardens, NY 11415","$389,000",2,1,No display data
+"531 E 26th St, Brooklyn, NY 11210","$849,000",5,2,"2,144sqft"
+"2418 Esplanade Ave, Bronx, NY 10469","$980,000",9,6,"4,012sqft"
+"166 Norwood St, Brooklyn, NY 11208","$1,125,000",8,4,No display data
+"88-11 Elmhurst Ave Unit B11, Elmhurst, NY 11373","$486,000",2,1,No display data
+"531 E 26th St, Brooklyn, NY 11210","$849,000",5,3,"2,144sqft"
+"1185 Park Ave Apt 1A, New York City, NY 10128","$1,425,000",3,3.5,No display data
+"25 W 54th St Unit 2F, New York, NY 10019","$799,000",2,2,No display data
+"165 Beach 139th St, Belle Harbor, NY 11694","$1,875,000",4,4.5,"2,492sqft"
+"40 E 43rd St Apt 3B, Brooklyn, NY 11203","$279,999",2,1,"1,000sqft"
+"221-40 59th Ave, Oakland Gardens, NY 11364","$989,000",4,3,No display data
+"1 Sutton Pl S Unit 7C, New York, NY 10022","$5,995,000",2,2.5,No display data
+"69-10 Yellowstone Blvd Unit 303, Forest Hills, NY 11375","$639,000",2,2,"1,300sqft"
+"275 Clinton Ave Unit 31, Brooklyn, NY 11205","$1,899,000",3,2,No display data
+"737 127th St, College Point, NY 11356","$999,000",4,2,No display data
+"150 Joralemon St Apt 4A, New York City, NY 11201","$890,000",2,1,No display data
+"105-08 Ditmars Blvd, East Elmhurst, NY 11369","$840,000",3,2.5,"1,140sqft"
+"124-02 Rockaway Blvd, South Ozone Park, NY 11420","$1,549,000",4,5,No display data
+"150 E 61st St Apt 7E, New York City, NY 10065","$1,895,000",2,2,"1,527sqft"
+"87-16 168 St, Jamaica, NY 11432","$3,300,000",9,8,No display data
+"60 W 13th St Apt 13A, New York City, NY 10011","$1,750,000",2,2,"1,200sqft"
+"220 Riverside Blvd Apt 10J, New York City, NY 10069","$3,650,000",3,3.5,"2,143sqft"
+"39 E 72nd St, New York City, NY 10021","$36,000,000",11,11.5+,No display data
+"130 E 12th St Ph 7AB, New York City, NY 10003","$5,575,000",3,3.5,"4,869sqft"
+"48 5th St Ph 5G, New York City, NY 11101","$2,550,000",3,2,"1,686sqft"
+"239 55th St, Brooklyn, NY 11220","$1,499,000",5,2,"1,968sqft"
+"473 Bainbridge St Unit 4A, New York City, NY 11233","$845,000",2,2,No display data
+"804 E 216th St, Bronx, NY 10467","$550,000",6,3,"2,604sqft"
+"42 Grove Ave, Staten Island, NY 10302","$399,000",3,1.5,"1,080sqft"
+"46 Grove Ave, Staten Island, NY 10302","$399,000",3,1.5,"1,080sqft"
+"1017 Swinton Ave, Bronx, NY 10465","$550,000",3,1.5,"1,938sqft"
+"48 Grove Ave, Staten Island, NY 10302","$499,000",4,2.5,No display data
+"53 E 80th St, New York City, NY 10075","$20,000,000",7,7.5+,"10,800sqft"
+"226 26 Union Tpke Unit 3P, Queens, NY 11364","$325,000",2,1,No display data
+"1821 Topping Ave, Bronx, NY 10457","$599,000",9,3,"3,008sqft"
+"130-23 135th Pl, Jamaica, NY 11420","$530,000",4,2,No display data
+"144-20 Village Rd Unit 65D, Jamaica, NY 11435","$157,700",2,1,"1,800sqft"
+"4 Van Siclen, Cypress Hills, NY 11207","$598,000",4,1.5+,No display data
+"353 W 53rd St Apt 2, New York City, NY 10019","$1,195,000",2,2,No display data
+"375 Sheffield St, Staten Island, NY 10310","$665,000",3,2.5,"1,440sqft"
+"698 New Dorp Ln, Staten Island, NY 10306","$499,900",2,1,560sqft
+"3401 Fort Independence St, Bronx, NY 10463","$589,000",4,3,"1,276sqft"
+"68-23 Douglaston Pkwy, Douglaston, NY 11362","$1,328,888",5,5,"3,400sqft"
+"68-23 Douglaston Pkwy, Queens, NY 11362","$1,328,888",5,5,"3,400sqft"
+"50-18 46th St, Woodside, NY 11377","$1,100,000",3,2.5,"2,051sqft"
+"300 E 62nd St Units 1803 & 1804, New York City, NY 10065","$1,700,000",2,2,No display data
+"1214 Olmstead Ave, Bronx, NY 10462","$1,100,000",7,4,No display data
+"233-03 Linden Blvd, Cambria Heights, NY 11411","$709,900",4,3,No display data
+"65 Milton Ave, Staten Island, NY 10306","$780,000",3,2,"1,940sqft"
+"531 E 26th St, Brooklyn, NY 11210","$849,000",5,3,"2,144sqft"
+"1969 Gerritsen Ave, Brooklyn, NY 11229","$799,000",2,1.5,"1,120sqft"
+"67-12 Bell Blvd, Bayside, NY 11364","$1,479,000",4,4,"2,550sqft"
+"212-11 85th Ave, Hollis Hills, NY 11427","$1,498,000",5,4,No display data
+"659 Putnam Ave Unit 4, New York, NY 11221","$825,000",2,1,763sqft
+"659 Putnam Ave Unit 3, New York, NY 11221","$825,000",2,1,763sqft
+"2137 E 73rd St, Brooklyn, NY 11234","$1,125,000",4,3,"1,890sqft"
+"202 Seeley St Apt 5E, New York City, NY 11218","$975,000",2,1,No display data
+"35 Hudson Yards Unit 6002, New York, NY 10001","$5,000,000",2,2.5,"2,174sqft"
+"8002 Harbor View Ter, Brooklyn, NY 11209","$3,799,000",5,3,"3,040sqft"
