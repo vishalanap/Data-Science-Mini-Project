@@ -6,8 +6,9 @@
 The project aims to analyze various factors of houses corresponding to their price via generating and comparing the accuracy of used models to predict the house prices using the following three ML algorithms:
 1. Multiple linear regression
 2. Decision tree
-3. Random forest regression<br>
-Housing price is strongly correlated to other factors such as location, area, population, as it requires information apart from HPI to predict individual housing prices.
+3. Random forest regression
+
+<br>Housing price is strongly correlated to other factors such as location, area, population, as it requires information apart from HPI to predict individual housing prices.
 
 <hr>
 
