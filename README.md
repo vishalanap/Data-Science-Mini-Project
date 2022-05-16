@@ -8,7 +8,7 @@ The project aims to analyze various factors of houses corresponding to their pri
 2. Decision tree
 3. Random forest regression
 
-<br>Housing price is strongly correlated to other factors such as location, area, population, as it requires information apart from HPI to predict individual housing prices.
+Housing price is strongly correlated to other factors such as location, area, population, as it requires information apart from HPI to predict individual housing prices.
 
 <hr>
 
